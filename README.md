@@ -1,6 +1,6 @@
-# Kamikaze
+# Centro de Doações Humanitárias MarjoSports
 
-Uma interface para registrar e consultar as doações feitas pelos usuários em situações de crise humanitária. 
+Uma interface para registrar e consultar as doações feitas por usuários em situações de crise humanitária. 
 
 ## Índice
 
@@ -10,17 +10,17 @@ Uma interface para registrar e consultar as doações feitas pelos usuários em 
 - [Licença](#licença)
 - [Contato](#contato)    
 
-## Instalação
+# Instalação
 
 Passos para instalar e configurar o projeto:
 
-# Clone o repositório
-git clone https://github.com/seu-usuario/seu-projeto.git
+## Clone o repositório
+git clone https://github.com/natanfiuza/help_rs_kamikaze.git
 
-# Navegue até o diretório do projeto
+## Navegue até o diretório do projeto
 cd seu-projeto
 
-# Instale as dependências
+## Instale as dependências
 pip install -r requirements.txt
 
 # Uso
@@ -43,8 +43,8 @@ Instruções para contribuir:
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
 
 # Contato
+Equipe KAMIKAZE
 Nataniel Fiuza - contato@natanfiuza.dev.br
 Nino Xavier Simas - nino.simas@gmail.com
 Raíssa Cunha de Medeiros - raahcunha@gmail.com
 Vinícius Souza Rodrigues - vinicanal604@gmail.com 
-Nome do Autor - @seu-twitter - seu-email@example.com
