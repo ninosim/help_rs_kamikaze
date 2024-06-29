@@ -4,11 +4,24 @@ Uma interface para registrar e consultar as doações feitas por usuários em si
 
 ## Índice
 
+- [Guia de Estilo](#estilo)
 - [Instalação](#instalação)
 - [Uso](#uso)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
 - [Contato](#contato)    
+
+# Estilo
+**Fonte da logo MarjoSports:** PF Beau Sans Pro
+**Paleta de cores MarjoSports:**
+--Cornell Red: #c50618ff
+--Eerie Black: #1f1f1fff
+--Antiflash White: #eeeeeeff
+--Davys Gray: #4b4949ff
+--Jet: #363636ff
+
+![Marjo Sports](https://github.com/ninosim/help_rs_kamikaze/assets/109488915/774fa030-16e5-4113-80cf-0003bbc734cb)
+
 
 # Instalação
 
