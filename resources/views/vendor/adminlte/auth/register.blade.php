@@ -52,6 +52,23 @@
                 </span>
             @enderror
         </div>
+        {{-- CPF field --}}
+        <div class="input-group mb-3">
+            <input type="cpf" name="cpf" class="form-control @error('cpf') is-invalid @enderror"
+                   value="{{ old('cpf') }}" placeholder="{{ __('Informe o CPF') }}">
+
+            <div class="input-group-append">
+                {{-- <div class="input-group-text">
+                    <span class="fas fa-envelope {{ config('adminlte.classes_auth_icon', '') }}"></span>
+                </div> --}}
+            </div>
+
+            @error('email')
+                <span class="invalid-feedback" role="alert">
+                    <strong>{{ $message }}</strong>
+                </span>
+            @enderror
+        </div>
 
         {{-- Password field --}}
         <div class="input-group mb-3">
