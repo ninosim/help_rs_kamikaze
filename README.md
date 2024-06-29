@@ -44,7 +44,7 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para d
 
 # Contato
 Equipe KAMIKAZE
-Nataniel Fiuza - contato@natanfiuza.dev.br
-Nino Xavier Simas - nino.simas@gmail.com
-Raíssa Cunha de Medeiros - raahcunha@gmail.com
-Vinícius Souza Rodrigues - vinicanal604@gmail.com 
+* Nataniel Fiuza - contato@natanfiuza.dev.br
+* Nino Xavier Simas - nino.simas@gmail.com
+* Raíssa Cunha de Medeiros - raahcunha@gmail.com
+* Vinícius Souza Rodrigues - vinicanal604@gmail.com 
