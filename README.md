@@ -14,14 +14,14 @@ Uma interface para registrar e consultar as doações feitas por usuários em si
 
 Passos para instalar e configurar o projeto:
 
-## Clone o repositório
-git clone https://github.com/natanfiuza/help_rs_kamikaze.git
+### Clone o repositório
+> git clone https://github.com/natanfiuza/help_rs_kamikaze.git
 
-## Navegue até o diretório do projeto
-cd seu-projeto
+### Navegue até o diretório do projeto
+> cd seu-projeto
 
-## Instale as dependências
-pip install -r requirements.txt
+### Instale as dependências
+> pip install -r requirements.txt
 
 # Uso
 Exemplos de como usar o projeto:
