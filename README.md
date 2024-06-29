@@ -13,7 +13,9 @@ Uma interface para registrar e consultar as doações feitas por usuários em si
 
 # Estilo
 **Fonte da logo MarjoSports:** PF Beau Sans Pro
+
 **Paleta de cores MarjoSports:**
+
 --Cornell Red: #c50618ff
 --Eerie Black: #1f1f1fff
 --Antiflash White: #eeeeeeff
@@ -60,4 +62,4 @@ Equipe KAMIKAZE
 * Nataniel Fiuza - contato@natanfiuza.dev.br
 * Nino Xavier Simas - nino.simas@gmail.com
 * Raíssa Cunha de Medeiros - raahcunha@gmail.com
-* Vinícius Souza Rodrigues - vinicanal604@gmail.com 
+* Vinícius Souza Rodrigues - vinicanal604@gmail.com
